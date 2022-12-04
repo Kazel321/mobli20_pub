@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">lab20_lukyanov</string>
+    <string name="btn_Save">SAVE</string>
+    <string name="btn_Return">RETURN</string>
+    <string name="btn_Clear">CLEAR CACHE</string>
+    <string name="btn_Settings">SETTINGS</string>
+    <string name="btn_ScaleUP">SCALE+</string>
+    <string name="btn_ScaleDOWN">SCALE-</string>
+    <string name="lab_API">API:</string>
+    <string name="lab_CacheTime">Cache time:</string>
+    <string name="chk_Coastline">Coastline</string>
+    <string name="chk_River">River</string>
+    <string name="chk_Road">Road</string>
+    <string name="chk_Railroad">Railroad</string>
+</resources>
